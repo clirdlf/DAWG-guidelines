@@ -16,13 +16,13 @@ nav_order: 6
 ---
 
 When developing an accessibility policy, you may experience challenges getting buy-in and support. People are motivated for different reasons. It is important, when coming across folks who do not immediately understand the benefits of accessibility work such as policy writing and workflow planning, to know what motivates an individual.
-When library staff were asked during a 2019 internal survey at the University of Minnesota (University of Minnesota Libraries Accessibility Steering Committee, 2019) if accessibility is important, most strongly agreed. However, when asked what barriers they experience in their work, the issues they most often cited were resources (time, budget, tools), training and guidance, and support from management. Here  are tips to address these concerns when preparing a policy or workflow plan. 
 
+When library staff were asked during a 2019 internal survey at the University of Minnesota (University of Minnesota Libraries Accessibility Steering Committee, 2019) if accessibility is important, most strongly agreed. However, when asked what barriers they experience in their work, the issues they most often cited were resources (time, budget, tools), training and guidance, and support from management. Here  are tips to address these concerns when preparing a policy or workflow plan. 
 
 ## Know Your Audience
 
--	**When talking with administrators**, use the Business Case for Digital Accessibility from W3C referenced in Section 2.1.5.
--	If you encounter **the argument that there isn’t enough time**, or that the effort isn’t worthwhile , use Section 2 of this document, on why accessibility matters, to make your case.
+- **When talking with administrators**, use the Business Case for Digital Accessibility from W3C referenced in [The Case for Digital Accessibility](/docs/why-accessibility/#the-case-for-digital-accessibility).
+- If you encounter **the argument that there isn’t enough time**, or that the effort isn’t worthwhile , use [Why Accessibility](/docs/why-accessibility/) of this document, on why accessibility matters, to make your case.
 
 ## Training and Guidance
 
@@ -37,7 +37,7 @@ We cannot build to one way of being or doing. That means addressing all aspects 
 
 - **Acknowledge that this will take time.**<br>
 Accessibility is a journey, as is all diversity and inclusion work. Emphasize that the work doesn’t happen overnight, and requires  patience with one another as we learn and do better. 
--	**Acknowledge that accessibility work will be imperfect.**<br>
+- **Acknowledge that accessibility work will be imperfect.**<br>
 Mistakes will happen. But making any improvement is worth it, and continuing to learn from mistakes and to improve over time can lead to lasting results.
 - **There will be limitations.**<br>
 Some work may be too costly to pursue, such as retroactively tagging thousands of PDFs in a digital repository. Developing a plan to support tagging PDFs over time may be a compromise.
@@ -46,25 +46,21 @@ Because there are limitations to how long remediation takes, take an on-demand a
 
 ### Budget
 
--	Use Section 4.2.1 Budgeting for Accessibility, which outlines information on securing resources for budgets.
+- Use [Budgeting for Accessibility]({% link docs/putting-policy-into-practice/understanding-context.md %}), which outlines information on securing resources for budgets.
 
 ### Tools and Training
-- **Suggestions for accessibility tools and training are included in Section 6**, which provides links to find more resources and accessibility training.
+- **Suggestions for accessibility tools and training are included in [Accessibility Tools]({% link docs/accessibility-tools.md %})**, which provides links to find more resources and accessibility training.
 - **Workarounds will have to be developed.**<br>
 Current workflows may not support accessibility work. Or the accessibility workflow may conflict with necessary steps in the archival and digitization processes. Be prepared to recommend workarounds for desired results.
 
 ## Support From Management
 
-**Ask for a commitment and a public accessibility statement** for your institution. Ask your management or administration to post a public statement about your institution's accessibility commitment and standards.  To help explain  why your institution should have such an accessibility statement in a public location, use the Business Case for Digital Accessibility from W3C referenced in Section 2.1.5, or Why Accessibility in Section 2 of this document. Then use that commitment to advocate for accessibility work, and the support to do the work. Learn more in Section 4, Putting Policy into Practice.
+**Ask for a commitment and a public accessibility statement** for your institution. Ask your management or administration to post a public statement about your institution's accessibility commitment and standards.  To help explain  why your institution should have such an accessibility statement in a public location, use the Business Case for Digital Accessibility from W3C referenced in Section 2.1.5, or Why Accessibility in Section 2 of this document. Then use that commitment to advocate for accessibility work, and the support to do the work. Learn more in [Putting Policy into Practice][Policy into Practice].
 
 ## Enforcement and Accountability
 
 - **Discuss the shared responsibility.**<br>
-Accessibility is embedded in all our work. It cannot be the domain of a sole person. Each person contributes to someone else’s experience, whether  through communication, cataloging, coding, or maintaining materials. Section 4, Putting Policy Into Practice, discusses enforcement, and outlines different institutional and individual roles and responsibilities.
+Accessibility is embedded in all our work. It cannot be the domain of a sole person. Each person contributes to someone else’s experience, whether  through communication, cataloging, coding, or maintaining materials. [Putting Policy Into Practice][Policy into Practice] discusses enforcement, and outlines different institutional and individual roles and responsibilities.
 
-
-
-## TODO: section links
-
-
+[Policy into Practice]: {% link docs/putting-policy-into-practice/putting-policies-into-practice.md %}
 
