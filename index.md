@@ -52,14 +52,11 @@ This document was written and maintained by the Digital Library Federation Acces
 - Lydia Tang, Lyrasis
 - Wendy Guerra, University of Nebraska at Omaha
 
-
 ### Code of Conduct
 
 Just the Docs is committed to fostering a welcoming community.
 
-[View our Code of Conduct]([Guidelines repo]: https://github.com/clirdlf/DAWG-guidelines/tree/main/CODE_OF_CONDUCT.md) on our GitHub repository.
-
-----
+[View our Code of Conduct](https://github.com/clirdlf/DAWG-guidelines/tree/main/CODE_OF_CONDUCT.md) on our GitHub repository.
 
 
 [Guidelines repo]: https://github.com/clirdlf/DAWG-guidelines/
