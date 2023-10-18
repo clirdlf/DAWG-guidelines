@@ -4,7 +4,7 @@ title: "Appendix 2: Models of Adoption: RACI Charts for Smaller Institutions"
 nav_order: 9
 ---
 
-# Appendix 1: Models of Adoption: RACI Charts for Smaller Institutions
+# Appendix 2: Models of Adoption: RACI Charts for Smaller Institutions
 {: .no_toc }
 
 ## Table of contents

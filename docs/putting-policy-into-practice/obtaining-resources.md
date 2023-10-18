@@ -18,9 +18,9 @@ nav_order: 4
 
 A policy may contain or communicate rationales for undertaking this work, and maintaining organization-wide buy-in. A knowledge of these rationales can also be helpful when generating buy-in for the policy-creation process; they can be presented to organizational leaders, and/or used to disseminate accessibility knowledge. These rationales can range from the punitive (you will be sued if you do not), to the aspirational (it is a human-rights cause). 
 
-TODO: get link to Section 2.1
 
-Refer to Section 2.1, Why Accessibility is Important, for a list of rationales that can be used to generate buy-in. 
+
+Refer to [Why Accessibility is Important]({% link docs/why-accessibility.md %}), for a list of rationales that can be used to generate buy-in. 
 
 ## Budgeting For Accessibility
 

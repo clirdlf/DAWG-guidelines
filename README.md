@@ -2,3 +2,6 @@
 
 ## Installation
 
+## Search Index
+
+    bundle exec just-the-docs rake search:init

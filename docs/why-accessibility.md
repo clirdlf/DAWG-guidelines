@@ -95,7 +95,7 @@ Their case outlines how:
 
 ### Rethinking Ability and Disability 
 
-Jay Dolmage’s book Academic Ableism provides some definitions to consider:
+Jay Dolmage’s book [Academic Ableism](https://doi.org/10.3998/mpub.9708722) provides some definitions to consider:
 
 > “Disablism” can be defined as “a set of assumptions (conscious or unconscious) and practices that promote the differential or unequal treatment of people because of actual or presumed disabilities” (Kumari Campbell, 4). Disablism, in short, negatively constructs disability. Disablism negatively constructs both the values and the material circumstances around people with disabilities. Disablism says that there could be nothing worse than being disabled, and treats disabled people unfairly as a result of these values. Ableism, on the other hand, instead of situating disability as bad and focusing on that stigma, positively values able-­bodiedness. In fact, ableism makes able-­bodiedness and able-­mindedness compulsory. Disablism constructs disability as negative quite directly and literally. Ableism renders disability as abject, invisible, disposable, less than human, while able-­bodiedness is represented as at once ideal, normal, and the mean or default.
 

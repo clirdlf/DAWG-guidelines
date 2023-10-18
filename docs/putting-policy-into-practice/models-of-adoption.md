@@ -32,9 +32,7 @@ Policy setting and planning can include any of the following.
 -	creation of staffing structures to support these goals
 -	creation of budgets and funding to carry out these activities
 
-For a detailed RACI matrix for setting policy, see Appendix 1.
-
-## TODO; Appendix 1 link
+For a detailed RACI matrix for setting policy, see [Appendix 1][appendix1].
 
 ## Web-based Projects
 
@@ -48,14 +46,14 @@ Phases are often overlapping and non-linear. Examples include:
 -	metadata Specification
 -	testing
 
-For a detailed RACI matrix for a possible distribution of responsibilities during a development or redesign of a website, go to Appendix 1.
+For a detailed RACI matrix for a possible distribution of responsibilities during a development or redesign of a website, go to [Appendix 1][appendix1].
 
 
 ### Ongoing Maintenance
 
 Once the initial design, development, testing, and implementation phase are  complete, the project team may move on to create or add content, functionality, or metadata fields. When these additions are made to the original website, they should be tracked by the project manager, with time allotted for accessibility-design best practices and accessibility testing. Any fixes are the responsibility of the appropriate team members.
 
-For a detailed RACI matrix example of ongoing maintenance work, go to Appendix 1.
+For a detailed RACI matrix example of ongoing maintenance work, go to [Appendix 1][appendix1].
 
 ### Different Institutional Configurations
 
@@ -65,7 +63,7 @@ In  smaller institutions, the user-experience design, accessibility monitoring, 
 
 The following matrices include possible distributions of accessibility responsibilities for smaller teams.
 
-For a view of possible RACI matrices for smaller institutions, go to Appendix 2.
+For a view of possible RACI matrices for smaller institutions, go to [Appendix 2][appendix2].
 
 ## Digitization Projects
 
@@ -101,4 +99,8 @@ When changes are made to the digitization process or the supplemental-asset-crea
 
 This ongoing operational work includes planning by the project manager, as well as consultation and additional information provided by the technical lead/developer, content author, metadata specialist, and digitization specialist.
 
-For a view of a RACI matrix depicting some of the possible workflow processes in a digitization project, go to Appendix 3.
+For a view of a RACI matrix depicting some of the possible workflow processes in a digitization project, go to [Appendix 3][appendix3].
+
+[appendix1]: {% link docs/appendix1.md %}
+[appendix2]: {% link docs/appendix2.md %}
+[appendix3]: {% link docs/appendix3.md %}
