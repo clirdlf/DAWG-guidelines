@@ -32,14 +32,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@4
+        uses: actions/checkout@v4
       - name: Setup Pages
-        id: pages
         uses: actions/configure-pages@v5
-      - name: Build with Jekyll
+      - name: Build
         uses: actions/jekyll-build-pages@v1
       - name: Upload artifact
-        # Automatically uploads an artifact from the './_site' directory by default
         uses: actions/upload-pages-artifact@v3
 
   # Deployment job
